@@ -1,0 +1,53 @@
+{
+  "proxies": [
+    {
+      "mode": "http",
+      "ip": "139.144.4.230",
+      "port": 13621,
+      "user": "modeler_ogwXqv",
+      "password": "dUdTmdfZGscG"
+    },
+    {
+      "mode": "http",
+      "ip": "139.144.4.230",
+      "port": 13622,
+      "user": "modeler_X9MKqo",
+      "password": "AITRsVl2EM1N"
+    },
+    {
+      "mode": "http",
+      "ip": "139.144.4.230",
+      "port": 13699,
+      "user": "modeler_fovIlA",
+      "password": "pECccxHOz5Uu"
+    },
+    {
+      "mode": "http",
+      "ip": "139.144.4.230",
+      "port": 13700,
+      "user": "modeler_iAgCGT",
+      "password": "UV5AgNc2AcLg"
+    },
+    {
+      "mode": "http",
+      "ip": "139.144.4.230",
+      "port": 13701,
+      "user": "modeler_UvwBnF",
+      "password": "i85PsTZ9XeB2"
+    },
+    {
+      "mode": "http",
+      "ip": "139.144.4.230",
+      "port": 13736,
+      "user": "modeler_1dG2TQ",
+      "password": "1DyRxFgFpe8p"
+    },
+    {
+      "mode": "http",
+      "ip": "139.144.4.230",
+      "port": 13737,
+      "user": "modeler_Si3rWo",
+      "password": "W0CClhGouC8g"
+    }
+  ]
+}
