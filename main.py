@@ -128,8 +128,9 @@ async def start_client(session_path:str,app_id:int,app_hash:str,proxy:tuple,phon
         async for dialog in client.iter_dialogs():
             if event.message.peer_id==dialog.message.peer_id:
                 chat=dialog.name
-        await client.send_message(FORWARD_TO_1, f'Сообщение от {chat} в {(event.message.date+timedelta(hours=3)).strftime('%Y-%m-%d %H:%M:%S')}: {event.message.message}')
-        await client.send_message(FORWARD_TO_2, f'Сообщение от {chat} в {(event.message.date+timedelta(hours=3)).strftime('%Y-%m-%d %H:%M:%S')}: {event.message.message}')
+        date_str=(event.message.date+timedelta(hours=3)).strftime('%Y-%m-%d %H:%M:%S')
+        await client.send_message(FORWARD_TO_1, f'Сообщение от {chat} в {date_str}: {event.message.message}')
+        await client.send_message(FORWARD_TO_2, f'Сообщение от {chat} в {date_str}: {event.message.message}')
         if event.message.media!=None:
             await event.message.forward_to(FORWARD_TO_1)
             await event.message.forward_to(FORWARD_TO_2)
