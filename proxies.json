@@ -1,35 +1,35 @@
 {
   "proxies": [
     {
-      "mode": "http",
+      "mode": "socks5",
       "ip": "154.219.208.170",
       "port": 63329,
       "user": "GXjt8nK3",
       "password": "ghhPdd4C"
     },
     {
-      "mode": "http",
+      "mode": "socks5",
       "ip": "45.140.5.80",
       "port": 62695,
       "user": "GXjt8nK3",
       "password": "ghhPdd4C"
     },
     {
-      "mode": "http",
+      "mode": "socks5",
       "ip": "84.246.82.221",
       "port": 64127,
       "user": "GXjt8nK3",
       "password": "ghhPdd4C"
     },
     {
-      "mode": "http",
+      "mode": "socks5",
       "ip": "2.59.212.202",
       "port": 63909,
       "user": "GXjt8nK3",
       "password": "ghhPdd4C"
     },
     {
-      "mode": "http",
+      "mode": "socks5",
       "ip": "194.55.104.27",
       "port": 64149,
       "user": "GXjt8nK3",
