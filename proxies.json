@@ -2,52 +2,38 @@
   "proxies": [
     {
       "mode": "http",
-      "ip": "139.144.4.230",
-      "port": 13621,
-      "user": "modeler_ogwXqv",
-      "password": "dUdTmdfZGscG"
+      "ip": "154.219.208.170",
+      "port": 63329,
+      "user": "GXjt8nK3",
+      "password": "ghhPdd4C"
     },
     {
       "mode": "http",
-      "ip": "139.144.4.230",
-      "port": 13622,
-      "user": "modeler_X9MKqo",
-      "password": "AITRsVl2EM1N"
+      "ip": "45.140.5.80",
+      "port": 62695,
+      "user": "GXjt8nK3",
+      "password": "ghhPdd4C"
     },
     {
       "mode": "http",
-      "ip": "139.144.4.230",
-      "port": 13699,
-      "user": "modeler_fovIlA",
-      "password": "pECccxHOz5Uu"
+      "ip": "84.246.82.221",
+      "port": 64127,
+      "user": "GXjt8nK3",
+      "password": "ghhPdd4C"
     },
     {
       "mode": "http",
-      "ip": "139.144.4.230",
-      "port": 13700,
-      "user": "modeler_iAgCGT",
-      "password": "UV5AgNc2AcLg"
+      "ip": "2.59.212.202",
+      "port": 63909,
+      "user": "GXjt8nK3",
+      "password": "ghhPdd4C"
     },
     {
       "mode": "http",
-      "ip": "139.144.4.230",
-      "port": 13701,
-      "user": "modeler_UvwBnF",
-      "password": "i85PsTZ9XeB2"
-    },
-    {
-      "mode": "http",
-      "ip": "139.144.4.230",
-      "port": 13736,
-      "user": "modeler_1dG2TQ",
-      "password": "1DyRxFgFpe8p"
-    },
-    {
-      "mode": "http",
-      "ip": "139.144.4.230",
-      "port": 13737,
-      "user": "modeler_Si3rWo",
-      "password": "W0CClhGouC8g"
+      "ip": "194.55.104.27",
+      "port": 64149,
+      "user": "GXjt8nK3",
+      "password": "ghhPdd4C"
     }
   ]
 }
